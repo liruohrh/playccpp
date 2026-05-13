@@ -1,0 +1,15 @@
+{
+  "name": "playccpp",
+  "version": "0.1.0",
+  "dependencies": [
+    "curl"
+  ],
+  "builtin-baseline": "296b89248ad13be09e9324488eb4f74dd322d26c",
+  "overrides": [
+    {
+      "name": "curl",
+      "version": "7.87.0",
+      "port-version": 1
+    }
+  ]
+}

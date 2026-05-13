@@ -1,0 +1,6 @@
+- init:  `cmake --preset default`
+- build
+  - `cmake --build --preset default`
+  - `cmake --build --preset default --target hello_play`
+    - hello_play
+    - curl_doh

@@ -1,8 +1,9 @@
-/compile_commands.json
-/build/
-/.cache/
+compile_commands.json
+build/
+.cache/
 *.local.*
 temp/
+*.log
 
 
 .vscode/

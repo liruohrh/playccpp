@@ -2,5 +2,4 @@
 - build
   - `cmake --build --preset default`
   - `cmake --build --preset default --target hello_play`
-    - hello_play
-    - curl_doh
+  - `cmake --build --preset default --target curl_doh`
